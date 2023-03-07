@@ -1,0 +1,23 @@
+{
+  "name": "typescript-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymKasianchuk/typeScript-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymKasianchuk/typeScript-3/issues"
+  },
+  "homepage": "https://github.com/MaksymKasianchuk/typeScript-3#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
